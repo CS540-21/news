@@ -1,4 +1,10 @@
+# Feb 9th
+   - Nick will introduce docker containers
+   - Will continue WoC tutorial
 
+# Feb 4th
+   - Anuj leads discussion of twitter.pdf
+   - Will continue WoC tutorial
        
 # Class 2: 
    - Please accept invite to the cs540-21 org on github
