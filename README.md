@@ -1,5 +1,10 @@
-# Feb 9th
+# Feb 25
+   - Austin will introduce Google Security paper
+
+# Feb 11th
    - Nick will introduce docker containers
+
+# Feb 9th
    - Will continue WoC tutorial
 
 # Feb 4th
