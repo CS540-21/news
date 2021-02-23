@@ -1,6 +1,9 @@
 # Feb 25
    - Austin will introduce Google Security paper
 
+# Feb 23th
+   - Finish WoC tutorial
+
 # Feb 18th
    - Continue WoC tutorial
 
