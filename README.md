@@ -1,3 +1,15 @@
+# Mar 11
+   - Leroy will present Chaos Monkey
+
+# Mar 9
+   - Open/BigData
+
+# Mar 4
+   - Open/BigData
+
+# Mar 2
+   - Open/BigData
+
 # Feb 25
    - Austin will introduce Google Security paper
 
