@@ -2,7 +2,9 @@
    - Leroy will present Chaos Monkey
 
 # Mar 9
-   - Open/BigData: Containers as a basis for devops
+   - Open/BigData: 
+   - [Containers as a basis for devops](https://devopscube.com/what-is-docker/)
+   - [History of VM](https://en.wikipedia.org/wiki/VM_(operating_system))
 
 # Mar 4
    - Open/BigData
