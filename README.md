@@ -2,7 +2,7 @@
    - Leroy will present Chaos Monkey
 
 # Mar 9
-   - Open/BigData
+   - Open/BigData: Containers as a basis for devops
 
 # Mar 4
    - Open/BigData
