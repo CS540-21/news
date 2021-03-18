@@ -1,3 +1,21 @@
+# Apr 1
+   - TBA
+
+# Mar 30
+   - Sammy will present devops
+   
+# Mar 25
+   - Chris will present netflix paper
+
+# Mar 23
+   - Abhishek will present CC hype cycle
+
+# Mar 18
+   - Advanced topic
+
+# Mar 16
+   - Worked on language dependencies task 
+
 # Mar 11
    - Leroy will present Chaos Monkey
 
