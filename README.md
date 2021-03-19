@@ -11,7 +11,7 @@
    - Abhishek will present CC hype cycle
 
 # Mar 18
-   - Advanced topic
+   - Advanced topic: [LSH](https://towardsdatascience.com/understanding-locality-sensitive-hashing-49f6d1f6134)
 
 # Mar 16
    - Worked on language dependencies task 
