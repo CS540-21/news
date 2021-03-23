@@ -1,3 +1,6 @@
+# April 15th
+   - Tanner on Big Data Pipeline
+
 # April 13
    - Christian on Decision Enable
    
