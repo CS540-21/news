@@ -1,11 +1,20 @@
+# April 13
+   - Christian on Decision Enable
+   
+# April 8
+   - Tyler on Facebook News
+
+# April 6
+   - TBD
+
 # Apr 1
-   - TBA
+   - Chris will do advanced shell script
 
 # Mar 30
    - Sammy will present devops
    
 # Mar 25
-   - Chris will present netflix paper
+   - Preston - Closed Form Implicit Surfaces
 
 # Mar 23
    - Abhishek will present CC hype cycle
