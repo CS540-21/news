@@ -14,7 +14,7 @@
    - Chris will do advanced shell script
 
 # Mar 30
-   - Sammy will present devops
+   - TBD
    
 # Mar 25
    - Preston - Closed Form Implicit Surfaces
