@@ -14,7 +14,7 @@
    - Chris will do advanced shell script
 
 # Mar 30
-   - TBD
+   - Tom covered future of software engineering
    
 # Mar 25
    - Preston - Closed Form Implicit Surfaces
