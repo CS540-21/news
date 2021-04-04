@@ -1,3 +1,6 @@
+# April 20th
+   - David will present testing under uncertainty paper
+   
 # April 15th
    - Tanner on Big Data Pipeline
 
