@@ -1,3 +1,5 @@
+Please upload you presentations (only in case you used slides) to cs540-21/lectures
+
 # April 20th
    - David will present testing under uncertainty paper
    
