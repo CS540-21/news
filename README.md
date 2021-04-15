@@ -1,5 +1,8 @@
 Please upload you presentations (only in case you used slides) to cs540-21/lectures
 
+# April 26th
+   - Rephael will present Netflix recommender
+   
 # April 22th
    - Jared will present bigDataLogAnalysis
 
