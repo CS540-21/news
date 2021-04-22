@@ -5,7 +5,9 @@
 
 # April 27th
    - Rephael will present Netflix recommender
-   - Sammy woll present his topic
+   - Sammy will present his topic
+   - Shivam will present his topic
+   - James will present his topic
    
 # April 22th
    - Jared will present bigDataLogAnalysis
